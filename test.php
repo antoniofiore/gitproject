@@ -1,1 +1,7 @@
-test
+<?
+function test{
+	
+	echo "test";
+	
+}
+?>
